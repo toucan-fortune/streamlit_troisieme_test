@@ -18,7 +18,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 #            'Report a bug': "https://www.extremelycoolapp.com/bug",
 #            'About': "# This is a header. This is an *extremely* cool app!"}
 st.set_page_config(page_title="Tableau de bord",
-                   page_icon="img/favicon-16x16.png",
+                   page_icon="img/favicon-32x32b.png",
                    layout="centered",
                    initial_sidebar_state="expanded")
 
